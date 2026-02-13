@@ -17,12 +17,12 @@ Key Features
 - Interpretation of model results and discussion of policy implications
 
 Data Sources
-• 	CDC WONDER – Accidental opioid overdose deaths
-• 	SAMHSA – Substance abuse and mental health funding
-• 	HUD Exchange – Homelessness data
-• 	FRED (St. Louis Fed) – Unemployment and per‑capita income
-• 	N‑SSATS – Substance abuse treatment facility counts
-• 	IQVIA Xponent – Naloxone distribution rates
+-	CDC WONDER – Accidental opioid overdose deaths
+-	SAMHSA – Substance abuse and mental health funding
+-	HUD Exchange – Homelessness data
+-	FRED (St. Louis Fed) – Unemployment and per‑capita income
+-	N‑SSATS – Substance abuse treatment facility counts
+-	IQVIA Xponent – Naloxone distribution rates
 
 Methods
 - Fixed‑effects panel regression
